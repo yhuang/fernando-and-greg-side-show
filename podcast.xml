@@ -5,11 +5,20 @@
     <description>Fernando &amp; Greg Side Show</description>
     <language>en-us</language>
     <link>https://yhuang.github.io/podcast</link>
+    <itunes:author>Fernando Ventura, Greg Sherrell, Jason Dahlstedt, and Heklina</itunes:author>
+    <itunes:summary>Fernando &amp; Greg Side Show</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/fernando-greg-side-show/Fernando%20%26%20Greg%20Side%20Show.jpg"/>
+    <image>
+      <url>https://archive.org/download/fernando-greg-side-show/Fernando%20%26%20Greg%20Side%20Show.jpg</url>
+      <title>Fernando &amp; Greg Side Show</title>
+      <link>https://yhuang.github.io/podcast</link>
+    </image>
     
     <item>
       <title>2011-12-12</title>
       <description>Episode: 2011-12-12</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:56 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:15 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2011-12-12.mp3" length="60345260" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2011-12-12.mp3</guid>
       <itunes:duration>01:02:48</itunes:duration>
@@ -18,7 +27,7 @@
     <item>
       <title>2012-01-25</title>
       <description>Episode: 2012-01-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2012-01-25.mp3" length="61149831" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2012-01-25.mp3</guid>
       <itunes:duration>01:03:39</itunes:duration>
@@ -27,7 +36,7 @@
     <item>
       <title>2012-02-01</title>
       <description>Episode: 2012-02-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2012-02-01.mp3" length="59886341" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2012-02-01.mp3</guid>
       <itunes:duration>01:02:20</itunes:duration>
@@ -36,7 +45,7 @@
     <item>
       <title>2012-02-08</title>
       <description>Episode: 2012-02-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2012-02-08.mp3" length="73053727" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2012-02-08.mp3</guid>
       <itunes:duration>01:16:03</itunes:duration>
@@ -45,7 +54,7 @@
     <item>
       <title>2013-01-09</title>
       <description>Episode: 2013-01-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-01-09.mp3" length="68730388" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-01-09.mp3</guid>
       <itunes:duration>01:11:32</itunes:duration>
@@ -54,7 +63,7 @@
     <item>
       <title>2013-01-16</title>
       <description>Episode: 2013-01-16</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-01-16.mp3" length="70031464" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-01-16.mp3</guid>
       <itunes:duration>01:12:54</itunes:duration>
@@ -63,7 +72,7 @@
     <item>
       <title>2013-01-23</title>
       <description>Episode: 2013-01-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-01-23.mp3" length="67236153" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-01-23.mp3</guid>
       <itunes:duration>01:09:59</itunes:duration>
@@ -72,7 +81,7 @@
     <item>
       <title>2013-01-30</title>
       <description>Episode: 2013-01-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:57 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:16 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-01-30.mp3" length="63582354" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-01-30.mp3</guid>
       <itunes:duration>01:06:11</itunes:duration>
@@ -81,7 +90,7 @@
     <item>
       <title>2013-02-06</title>
       <description>Episode: 2013-02-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-02-06.mp3" length="67416293" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-02-06.mp3</guid>
       <itunes:duration>01:10:10</itunes:duration>
@@ -90,7 +99,7 @@
     <item>
       <title>2013-02-13</title>
       <description>Episode: 2013-02-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-02-13.mp3" length="61377619" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-02-13.mp3</guid>
       <itunes:duration>01:03:53</itunes:duration>
@@ -99,7 +108,7 @@
     <item>
       <title>2013-02-20</title>
       <description>Episode: 2013-02-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-02-20.mp3" length="65081991" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-02-20.mp3</guid>
       <itunes:duration>01:07:44</itunes:duration>
@@ -108,7 +117,7 @@
     <item>
       <title>2013-03-06</title>
       <description>Episode: 2013-03-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-03-06.mp3" length="62479359" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-03-06.mp3</guid>
       <itunes:duration>01:05:02</itunes:duration>
@@ -117,7 +126,7 @@
     <item>
       <title>2013-03-13</title>
       <description>Episode: 2013-03-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-03-13.mp3" length="68956504" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-03-13.mp3</guid>
       <itunes:duration>01:11:47</itunes:duration>
@@ -126,7 +135,7 @@
     <item>
       <title>2013-03-20</title>
       <description>Episode: 2013-03-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-03-20.mp3" length="62680816" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-03-20.mp3</guid>
       <itunes:duration>01:05:14</itunes:duration>
@@ -135,7 +144,7 @@
     <item>
       <title>2013-03-27</title>
       <description>Episode: 2013-03-27</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:58 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:17 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-03-27.mp3" length="62327222" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-03-27.mp3</guid>
       <itunes:duration>01:04:52</itunes:duration>
@@ -144,7 +153,7 @@
     <item>
       <title>2013-04-05</title>
       <description>Episode: 2013-04-05</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:59 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-04-05.mp3" length="67855150" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-04-05.mp3</guid>
       <itunes:duration>01:10:38</itunes:duration>
@@ -153,7 +162,7 @@
     <item>
       <title>2013-04-26</title>
       <description>Episode: 2013-04-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:59 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-04-26.mp3" length="167218050" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-04-26.mp3</guid>
       <itunes:duration>01:09:39</itunes:duration>
@@ -162,7 +171,7 @@
     <item>
       <title>2013-05-03</title>
       <description>Episode: 2013-05-03</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:59 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-05-03.mp3" length="172674508" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-05-03.mp3</guid>
       <itunes:duration>01:11:55</itunes:duration>
@@ -171,7 +180,7 @@
     <item>
       <title>2013-05-08</title>
       <description>Episode: 2013-05-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:59 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-05-08.mp3" length="162149250" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-05-08.mp3</guid>
       <itunes:duration>01:07:32</itunes:duration>
@@ -180,7 +189,7 @@
     <item>
       <title>2013-05-10</title>
       <description>Episode: 2013-05-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:59 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-05-10.mp3" length="59974948" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-05-10.mp3</guid>
       <itunes:duration>01:02:25</itunes:duration>
@@ -189,7 +198,7 @@
     <item>
       <title>2013-05-15</title>
       <description>Episode: 2013-05-15</description>
-      <pubDate>Sun, 19 Oct 2025 21:50:59 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-05-15.mp3" length="63166902" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-05-15.mp3</guid>
       <itunes:duration>01:05:45</itunes:duration>
@@ -198,7 +207,7 @@
     <item>
       <title>2013-05-22</title>
       <description>Episode: 2013-05-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:18 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-05-22.mp3" length="62190550" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-05-22.mp3</guid>
       <itunes:duration>01:04:44</itunes:duration>
@@ -207,7 +216,7 @@
     <item>
       <title>2013-05-29</title>
       <description>Episode: 2013-05-29</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-05-29.mp3" length="71027461" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-05-29.mp3</guid>
       <itunes:duration>01:13:56</itunes:duration>
@@ -216,7 +225,7 @@
     <item>
       <title>2013-06-14</title>
       <description>Episode: 2013-06-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-06-14.mp3" length="73443683" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-06-14.mp3</guid>
       <itunes:duration>01:16:27</itunes:duration>
@@ -225,7 +234,7 @@
     <item>
       <title>2013-06-19</title>
       <description>Episode: 2013-06-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-06-19.mp3" length="64531121" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-06-19.mp3</guid>
       <itunes:duration>01:07:10</itunes:duration>
@@ -234,7 +243,7 @@
     <item>
       <title>2013-06-26</title>
       <description>Episode: 2013-06-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-06-26.mp3" length="148618867" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-06-26.mp3</guid>
       <itunes:duration>01:01:54</itunes:duration>
@@ -243,7 +252,7 @@
     <item>
       <title>2013-07-02</title>
       <description>Episode: 2013-07-02</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-07-02.mp3" length="57247764" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-07-02.mp3</guid>
       <itunes:duration>00:59:35</itunes:duration>
@@ -252,7 +261,7 @@
     <item>
       <title>2013-07-10</title>
       <description>Episode: 2013-07-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:00 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-07-10.mp3" length="63795931" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-07-10.mp3</guid>
       <itunes:duration>01:06:24</itunes:duration>
@@ -261,7 +270,7 @@
     <item>
       <title>2013-07-24</title>
       <description>Episode: 2013-07-24</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:19 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-07-24.mp3" length="66489678" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-07-24.mp3</guid>
       <itunes:duration>01:09:12</itunes:duration>
@@ -270,7 +279,7 @@
     <item>
       <title>2013-08-07</title>
       <description>Episode: 2013-08-07</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-08-07.mp3" length="63790497" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-08-07.mp3</guid>
       <itunes:duration>01:06:24</itunes:duration>
@@ -279,7 +288,7 @@
     <item>
       <title>2013-08-21</title>
       <description>Episode: 2013-08-21</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-08-21.mp3" length="62424607" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-08-21.mp3</guid>
       <itunes:duration>01:04:58</itunes:duration>
@@ -288,7 +297,7 @@
     <item>
       <title>2013-08-28</title>
       <description>Episode: 2013-08-28</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-08-28.mp3" length="59447901" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-08-28.mp3</guid>
       <itunes:duration>01:01:52</itunes:duration>
@@ -297,7 +306,7 @@
     <item>
       <title>2013-09-04</title>
       <description>Episode: 2013-09-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-09-04.mp3" length="66349661" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-09-04.mp3</guid>
       <itunes:duration>01:09:04</itunes:duration>
@@ -306,7 +315,7 @@
     <item>
       <title>2013-09-13</title>
       <description>Episode: 2013-09-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-09-13.mp3" length="73443683" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-09-13.mp3</guid>
       <itunes:duration>01:16:27</itunes:duration>
@@ -315,7 +324,7 @@
     <item>
       <title>2013-09-18</title>
       <description>Episode: 2013-09-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:01 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-09-18.mp3" length="62038830" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-09-18.mp3</guid>
       <itunes:duration>01:04:34</itunes:duration>
@@ -324,7 +333,7 @@
     <item>
       <title>2013-09-25</title>
       <description>Episode: 2013-09-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:20 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-09-25.mp3" length="62226076" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-09-25.mp3</guid>
       <itunes:duration>01:04:46</itunes:duration>
@@ -333,7 +342,7 @@
     <item>
       <title>2013-10-02</title>
       <description>Episode: 2013-10-02</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-10-02.mp3" length="59913090" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-10-02.mp3</guid>
       <itunes:duration>01:02:21</itunes:duration>
@@ -342,7 +351,7 @@
     <item>
       <title>2013-10-09</title>
       <description>Episode: 2013-10-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-10-09.mp3" length="62092747" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-10-09.mp3</guid>
       <itunes:duration>01:04:38</itunes:duration>
@@ -351,7 +360,7 @@
     <item>
       <title>2013-10-16</title>
       <description>Episode: 2013-10-16</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-10-16.mp3" length="64061753" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-10-16.mp3</guid>
       <itunes:duration>01:06:41</itunes:duration>
@@ -360,7 +369,7 @@
     <item>
       <title>2013-10-23</title>
       <description>Episode: 2013-10-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-10-23.mp3" length="57611807" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-10-23.mp3</guid>
       <itunes:duration>00:59:58</itunes:duration>
@@ -369,7 +378,7 @@
     <item>
       <title>2013-10-30</title>
       <description>Episode: 2013-10-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-10-30.mp3" length="62634004" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-10-30.mp3</guid>
       <itunes:duration>01:05:11</itunes:duration>
@@ -378,7 +387,7 @@
     <item>
       <title>2013-11-06</title>
       <description>Episode: 2013-11-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:02 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-11-06.mp3" length="64658201" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-11-06.mp3</guid>
       <itunes:duration>01:07:18</itunes:duration>
@@ -387,7 +396,7 @@
     <item>
       <title>2013-11-13</title>
       <description>Episode: 2013-11-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:21 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-11-13.mp3" length="60198587" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-11-13.mp3</guid>
       <itunes:duration>01:02:39</itunes:duration>
@@ -396,7 +405,7 @@
     <item>
       <title>2013-11-20</title>
       <description>Episode: 2013-11-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-11-20.mp3" length="63857371" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-11-20.mp3</guid>
       <itunes:duration>01:06:28</itunes:duration>
@@ -405,7 +414,7 @@
     <item>
       <title>2013-11-25</title>
       <description>Episode: 2013-11-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-11-25.mp3" length="60142132" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-11-25.mp3</guid>
       <itunes:duration>01:02:36</itunes:duration>
@@ -414,7 +423,7 @@
     <item>
       <title>2013-12-04</title>
       <description>Episode: 2013-12-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-12-04.mp3" length="160897463" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-12-04.mp3</guid>
       <itunes:duration>01:07:01</itunes:duration>
@@ -423,7 +432,7 @@
     <item>
       <title>2013-12-11</title>
       <description>Episode: 2013-12-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-12-11.mp3" length="63466579" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-12-11.mp3</guid>
       <itunes:duration>01:06:03</itunes:duration>
@@ -432,7 +441,7 @@
     <item>
       <title>2013-12-18</title>
       <description>Episode: 2013-12-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2013-12-18.mp3" length="55117829" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2013-12-18.mp3</guid>
       <itunes:duration>00:57:22</itunes:duration>
@@ -441,7 +450,7 @@
     <item>
       <title>2014-01-08</title>
       <description>Episode: 2014-01-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:03 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-01-08.mp3" length="61192881" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-01-08.mp3</guid>
       <itunes:duration>01:03:41</itunes:duration>
@@ -450,7 +459,7 @@
     <item>
       <title>2014-01-22</title>
       <description>Episode: 2014-01-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:22 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-01-22.mp3" length="64518582" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-01-22.mp3</guid>
       <itunes:duration>01:07:09</itunes:duration>
@@ -459,7 +468,7 @@
     <item>
       <title>2014-01-29</title>
       <description>Episode: 2014-01-29</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:23 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-01-29.mp3" length="65125877" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-01-29.mp3</guid>
       <itunes:duration>01:07:47</itunes:duration>
@@ -468,7 +477,7 @@
     <item>
       <title>2014-02-05</title>
       <description>Episode: 2014-02-05</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:23 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-02-05.mp3" length="60480261" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-02-05.mp3</guid>
       <itunes:duration>01:02:57</itunes:duration>
@@ -477,7 +486,7 @@
     <item>
       <title>2014-02-12</title>
       <description>Episode: 2014-02-12</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:23 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-02-12.mp3" length="149830948" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-02-12.mp3</guid>
       <itunes:duration>01:02:24</itunes:duration>
@@ -486,7 +495,7 @@
     <item>
       <title>2014-02-19</title>
       <description>Episode: 2014-02-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:23 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-02-19.mp3" length="55760685" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-02-19.mp3</guid>
       <itunes:duration>00:58:02</itunes:duration>
@@ -495,7 +504,7 @@
     <item>
       <title>2014-03-05</title>
       <description>Episode: 2014-03-05</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:23 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-03-05.mp3" length="56144770" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-03-05.mp3</guid>
       <itunes:duration>00:58:26</itunes:duration>
@@ -504,7 +513,7 @@
     <item>
       <title>2014-03-14</title>
       <description>Episode: 2014-03-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:04 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:23 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-03-14.mp3" length="60438465" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-03-14.mp3</guid>
       <itunes:duration>01:02:54</itunes:duration>
@@ -513,7 +522,7 @@
     <item>
       <title>2014-03-19</title>
       <description>Episode: 2014-03-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-03-19.mp3" length="64253596" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-03-19.mp3</guid>
       <itunes:duration>01:06:53</itunes:duration>
@@ -522,7 +531,7 @@
     <item>
       <title>2014-03-26</title>
       <description>Episode: 2014-03-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-03-26.mp3" length="152752483" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-03-26.mp3</guid>
       <itunes:duration>01:03:37</itunes:duration>
@@ -531,7 +540,7 @@
     <item>
       <title>2014-04-04</title>
       <description>Episode: 2014-04-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-04-04.mp3" length="159233985" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-04-04.mp3</guid>
       <itunes:duration>01:06:19</itunes:duration>
@@ -540,7 +549,7 @@
     <item>
       <title>2014-04-09</title>
       <description>Episode: 2014-04-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-04-09.mp3" length="52771421" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-04-09.mp3</guid>
       <itunes:duration>00:54:55</itunes:duration>
@@ -549,7 +558,7 @@
     <item>
       <title>2014-05-21</title>
       <description>Episode: 2014-05-21</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-05-21.mp3" length="58828904" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-05-21.mp3</guid>
       <itunes:duration>01:01:14</itunes:duration>
@@ -558,7 +567,7 @@
     <item>
       <title>2014-05-23</title>
       <description>Episode: 2014-05-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-05-23.mp3" length="58158497" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-05-23.mp3</guid>
       <itunes:duration>01:00:32</itunes:duration>
@@ -567,7 +576,7 @@
     <item>
       <title>2014-06-04</title>
       <description>Episode: 2014-06-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:05 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:24 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-06-04.mp3" length="65301838" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-06-04.mp3</guid>
       <itunes:duration>01:07:58</itunes:duration>
@@ -576,7 +585,7 @@
     <item>
       <title>2014-06-11</title>
       <description>Episode: 2014-06-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-06-11.mp3" length="59487607" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-06-11.mp3</guid>
       <itunes:duration>01:01:55</itunes:duration>
@@ -585,7 +594,7 @@
     <item>
       <title>2014-06-18</title>
       <description>Episode: 2014-06-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-06-18.mp3" length="54829452" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-06-18.mp3</guid>
       <itunes:duration>00:57:04</itunes:duration>
@@ -594,7 +603,7 @@
     <item>
       <title>2014-06-25</title>
       <description>Episode: 2014-06-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-06-25.mp3" length="62724701" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-06-25.mp3</guid>
       <itunes:duration>01:05:17</itunes:duration>
@@ -603,7 +612,7 @@
     <item>
       <title>2014-07-09</title>
       <description>Episode: 2014-07-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-07-09.mp3" length="47258958" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-07-09.mp3</guid>
       <itunes:duration>00:49:10</itunes:duration>
@@ -612,7 +621,7 @@
     <item>
       <title>2014-07-23</title>
       <description>Episode: 2014-07-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-07-23.mp3" length="58334040" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-07-23.mp3</guid>
       <itunes:duration>01:00:43</itunes:duration>
@@ -621,7 +630,7 @@
     <item>
       <title>2014-07-30</title>
       <description>Episode: 2014-07-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-07-30.mp3" length="162596467" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-07-30.mp3</guid>
       <itunes:duration>01:07:43</itunes:duration>
@@ -630,7 +639,7 @@
     <item>
       <title>2014-08-13</title>
       <description>Episode: 2014-08-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:06 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:25 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-08-13.mp3" length="63339519" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-08-13.mp3</guid>
       <itunes:duration>01:05:55</itunes:duration>
@@ -639,7 +648,7 @@
     <item>
       <title>2014-08-20</title>
       <description>Episode: 2014-08-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-08-20.mp3" length="54654327" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-08-20.mp3</guid>
       <itunes:duration>00:56:53</itunes:duration>
@@ -648,7 +657,7 @@
     <item>
       <title>2014-08-27</title>
       <description>Episode: 2014-08-27</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-08-27.mp3" length="63305665" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-08-27.mp3</guid>
       <itunes:duration>01:05:53</itunes:duration>
@@ -657,7 +666,7 @@
     <item>
       <title>2014-09-03</title>
       <description>Episode: 2014-09-03</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-09-03.mp3" length="58675544" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-09-03.mp3</guid>
       <itunes:duration>01:01:04</itunes:duration>
@@ -666,7 +675,7 @@
     <item>
       <title>2014-09-10</title>
       <description>Episode: 2014-09-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-09-10.mp3" length="63243807" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-09-10.mp3</guid>
       <itunes:duration>01:05:50</itunes:duration>
@@ -675,7 +684,7 @@
     <item>
       <title>2014-09-17</title>
       <description>Episode: 2014-09-17</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-09-17.mp3" length="57469283" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-09-17.mp3</guid>
       <itunes:duration>00:59:49</itunes:duration>
@@ -684,7 +693,7 @@
     <item>
       <title>2014-09-24</title>
       <description>Episode: 2014-09-24</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-09-24.mp3" length="61287340" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-09-24.mp3</guid>
       <itunes:duration>01:03:47</itunes:duration>
@@ -693,7 +702,7 @@
     <item>
       <title>2014-09-26</title>
       <description>Episode: 2014-09-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:07 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:26 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-09-26.mp3" length="61688581" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-09-26.mp3</guid>
       <itunes:duration>01:04:12</itunes:duration>
@@ -702,7 +711,7 @@
     <item>
       <title>2014-10-01</title>
       <description>Episode: 2014-10-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-10-01.mp3" length="58234586" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-10-01.mp3</guid>
       <itunes:duration>01:00:36</itunes:duration>
@@ -711,7 +720,7 @@
     <item>
       <title>2014-10-03</title>
       <description>Episode: 2014-10-03</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-10-03.mp3" length="48275047" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-10-03.mp3</guid>
       <itunes:duration>00:50:14</itunes:duration>
@@ -720,7 +729,7 @@
     <item>
       <title>2014-10-08</title>
       <description>Episode: 2014-10-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-10-08.mp3" length="60440136" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-10-08.mp3</guid>
       <itunes:duration>01:02:54</itunes:duration>
@@ -729,7 +738,7 @@
     <item>
       <title>2014-10-14</title>
       <description>Episode: 2014-10-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-10-14.mp3" length="148764108" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-10-14.mp3</guid>
       <itunes:duration>01:01:58</itunes:duration>
@@ -738,7 +747,7 @@
     <item>
       <title>2014-10-22</title>
       <description>Episode: 2014-10-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-10-22.mp3" length="62498198" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-10-22.mp3</guid>
       <itunes:duration>01:05:03</itunes:duration>
@@ -747,7 +756,7 @@
     <item>
       <title>2014-10-30</title>
       <description>Episode: 2014-10-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-10-30.mp3" length="58153502" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-10-30.mp3</guid>
       <itunes:duration>01:00:31</itunes:duration>
@@ -756,7 +765,7 @@
     <item>
       <title>2014-11-06</title>
       <description>Episode: 2014-11-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:08 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:27 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-11-06.mp3" length="60354873" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-11-06.mp3</guid>
       <itunes:duration>01:02:49</itunes:duration>
@@ -765,7 +774,7 @@
     <item>
       <title>2014-11-12</title>
       <description>Episode: 2014-11-12</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2014-11-12.mp3" length="55962958" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2014-11-12.mp3</guid>
       <itunes:duration>00:58:14</itunes:duration>
@@ -774,7 +783,7 @@
     <item>
       <title>2015-01-07</title>
       <description>Episode: 2015-01-07</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-01-07.mp3" length="60761965" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-01-07.mp3</guid>
       <itunes:duration>01:03:14</itunes:duration>
@@ -783,7 +792,7 @@
     <item>
       <title>2015-01-14</title>
       <description>Episode: 2015-01-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-01-14.mp3" length="59365145" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-01-14.mp3</guid>
       <itunes:duration>01:01:47</itunes:duration>
@@ -792,7 +801,7 @@
     <item>
       <title>2015-02-04</title>
       <description>Episode: 2015-02-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-02-04.mp3" length="59493459" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-02-04.mp3</guid>
       <itunes:duration>01:01:55</itunes:duration>
@@ -801,7 +810,7 @@
     <item>
       <title>2015-02-11</title>
       <description>Episode: 2015-02-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-02-11.mp3" length="61396009" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-02-11.mp3</guid>
       <itunes:duration>01:03:54</itunes:duration>
@@ -810,7 +819,7 @@
     <item>
       <title>2015-02-18</title>
       <description>Episode: 2015-02-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-02-18.mp3" length="60376627" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-02-18.mp3</guid>
       <itunes:duration>01:02:50</itunes:duration>
@@ -819,7 +828,7 @@
     <item>
       <title>2015-02-25</title>
       <description>Episode: 2015-02-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:09 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:28 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-02-25.mp3" length="59106429" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-02-25.mp3</guid>
       <itunes:duration>01:01:31</itunes:duration>
@@ -828,7 +837,7 @@
     <item>
       <title>2015-03-04</title>
       <description>Episode: 2015-03-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:10 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-03-04.mp3" length="60631562" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-03-04.mp3</guid>
       <itunes:duration>01:03:06</itunes:duration>
@@ -837,7 +846,7 @@
     <item>
       <title>2015-03-11</title>
       <description>Episode: 2015-03-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:10 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-03-11.mp3" length="59129854" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-03-11.mp3</guid>
       <itunes:duration>01:01:32</itunes:duration>
@@ -846,7 +855,7 @@
     <item>
       <title>2015-03-17</title>
       <description>Episode: 2015-03-17</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:10 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-03-17.mp3" length="62911111" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-03-17.mp3</guid>
       <itunes:duration>01:05:29</itunes:duration>
@@ -855,7 +864,7 @@
     <item>
       <title>2015-04-01</title>
       <description>Episode: 2015-04-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:10 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-04-01.mp3" length="59194200" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-04-01.mp3</guid>
       <itunes:duration>01:01:36</itunes:duration>
@@ -864,7 +873,7 @@
     <item>
       <title>2015-04-08</title>
       <description>Episode: 2015-04-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:10 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-04-08.mp3" length="53909137" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-04-08.mp3</guid>
       <itunes:duration>00:56:06</itunes:duration>
@@ -873,7 +882,7 @@
     <item>
       <title>2015-04-15</title>
       <description>Episode: 2015-04-15</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:10 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-04-15.mp3" length="62491093" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-04-15.mp3</guid>
       <itunes:duration>01:05:02</itunes:duration>
@@ -882,7 +891,7 @@
     <item>
       <title>2015-04-22</title>
       <description>Episode: 2015-04-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:29 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-04-22.mp3" length="60938375" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-04-22.mp3</guid>
       <itunes:duration>01:03:25</itunes:duration>
@@ -891,7 +900,7 @@
     <item>
       <title>2015-04-29</title>
       <description>Episode: 2015-04-29</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-04-29.mp3" length="69491878" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-04-29.mp3</guid>
       <itunes:duration>01:12:20</itunes:duration>
@@ -900,7 +909,7 @@
     <item>
       <title>2015-05-06</title>
       <description>Episode: 2015-05-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-05-06.mp3" length="63662602" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-05-06.mp3</guid>
       <itunes:duration>01:06:16</itunes:duration>
@@ -909,7 +918,7 @@
     <item>
       <title>2015-05-13</title>
       <description>Episode: 2015-05-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-05-13.mp3" length="66034938" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-05-13.mp3</guid>
       <itunes:duration>01:08:44</itunes:duration>
@@ -918,7 +927,7 @@
     <item>
       <title>2015-05-20</title>
       <description>Episode: 2015-05-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-05-20.mp3" length="63241717" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-05-20.mp3</guid>
       <itunes:duration>01:05:49</itunes:duration>
@@ -927,7 +936,7 @@
     <item>
       <title>2015-05-27</title>
       <description>Episode: 2015-05-27</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-05-27.mp3" length="64316290" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-05-27.mp3</guid>
       <itunes:duration>01:06:57</itunes:duration>
@@ -936,7 +945,7 @@
     <item>
       <title>2015-06-03</title>
       <description>Episode: 2015-06-03</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:11 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-06-03.mp3" length="64409944" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-06-03.mp3</guid>
       <itunes:duration>01:07:02</itunes:duration>
@@ -945,7 +954,7 @@
     <item>
       <title>2015-06-10</title>
       <description>Episode: 2015-06-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:30 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-06-10.mp3" length="37751222" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-06-10.mp3</guid>
       <itunes:duration>00:39:16</itunes:duration>
@@ -954,7 +963,7 @@
     <item>
       <title>2015-06-26</title>
       <description>Episode: 2015-06-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-06-26.mp3" length="53779977" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-06-26.mp3</guid>
       <itunes:duration>00:55:58</itunes:duration>
@@ -963,7 +972,7 @@
     <item>
       <title>2015-07-15</title>
       <description>Episode: 2015-07-15</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-07-15.mp3" length="60697181" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-07-15.mp3</guid>
       <itunes:duration>01:03:10</itunes:duration>
@@ -972,7 +981,7 @@
     <item>
       <title>2015-07-22</title>
       <description>Episode: 2015-07-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-07-22.mp3" length="61822327" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-07-22.mp3</guid>
       <itunes:duration>01:04:21</itunes:duration>
@@ -981,7 +990,7 @@
     <item>
       <title>2015-08-05</title>
       <description>Episode: 2015-08-05</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-08-05.mp3" length="56842762" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-08-05.mp3</guid>
       <itunes:duration>00:59:09</itunes:duration>
@@ -990,7 +999,7 @@
     <item>
       <title>2015-08-12</title>
       <description>Episode: 2015-08-12</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-08-12.mp3" length="58144307" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-08-12.mp3</guid>
       <itunes:duration>01:00:31</itunes:duration>
@@ -999,7 +1008,7 @@
     <item>
       <title>2015-08-19</title>
       <description>Episode: 2015-08-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:12 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-08-19.mp3" length="54688202" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-08-19.mp3</guid>
       <itunes:duration>00:56:55</itunes:duration>
@@ -1008,7 +1017,7 @@
     <item>
       <title>2015-08-26</title>
       <description>Episode: 2015-08-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:31 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-08-26.mp3" length="55686269" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-08-26.mp3</guid>
       <itunes:duration>00:57:57</itunes:duration>
@@ -1017,7 +1026,7 @@
     <item>
       <title>2015-09-02</title>
       <description>Episode: 2015-09-02</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-09-02.mp3" length="55461020" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-09-02.mp3</guid>
       <itunes:duration>00:57:43</itunes:duration>
@@ -1026,7 +1035,7 @@
     <item>
       <title>2015-09-09</title>
       <description>Episode: 2015-09-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-09-09.mp3" length="53758254" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-09-09.mp3</guid>
       <itunes:duration>00:55:57</itunes:duration>
@@ -1035,7 +1044,7 @@
     <item>
       <title>2015-09-16</title>
       <description>Episode: 2015-09-16</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-09-16.mp3" length="54379310" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-09-16.mp3</guid>
       <itunes:duration>00:56:35</itunes:duration>
@@ -1044,7 +1053,7 @@
     <item>
       <title>2015-09-23</title>
       <description>Episode: 2015-09-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-09-23.mp3" length="57620166" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-09-23.mp3</guid>
       <itunes:duration>00:59:58</itunes:duration>
@@ -1053,7 +1062,7 @@
     <item>
       <title>2015-09-30</title>
       <description>Episode: 2015-09-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-09-30.mp3" length="56805563" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-09-30.mp3</guid>
       <itunes:duration>00:59:07</itunes:duration>
@@ -1062,7 +1071,7 @@
     <item>
       <title>2015-10-07</title>
       <description>Episode: 2015-10-07</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:13 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-10-07.mp3" length="54539838" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-10-07.mp3</guid>
       <itunes:duration>00:56:46</itunes:duration>
@@ -1071,7 +1080,7 @@
     <item>
       <title>2015-10-14</title>
       <description>Episode: 2015-10-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:32 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-10-14.mp3" length="50948283" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-10-14.mp3</guid>
       <itunes:duration>00:53:01</itunes:duration>
@@ -1080,7 +1089,7 @@
     <item>
       <title>2015-10-28</title>
       <description>Episode: 2015-10-28</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:33 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-10-28.mp3" length="52642272" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-10-28.mp3</guid>
       <itunes:duration>00:54:47</itunes:duration>
@@ -1089,7 +1098,7 @@
     <item>
       <title>2015-11-04</title>
       <description>Episode: 2015-11-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:33 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-11-04.mp3" length="53772852" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-11-04.mp3</guid>
       <itunes:duration>00:55:58</itunes:duration>
@@ -1098,7 +1107,7 @@
     <item>
       <title>2015-11-11</title>
       <description>Episode: 2015-11-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:33 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-11-11.mp3" length="57102732" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-11-11.mp3</guid>
       <itunes:duration>00:59:26</itunes:duration>
@@ -1107,7 +1116,7 @@
     <item>
       <title>2015-11-18</title>
       <description>Episode: 2015-11-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:33 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-11-18.mp3" length="56900022" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-11-18.mp3</guid>
       <itunes:duration>00:59:13</itunes:duration>
@@ -1116,7 +1125,7 @@
     <item>
       <title>2015-12-09</title>
       <description>Episode: 2015-12-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:33 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2015-12-09.mp3" length="55533327" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2015-12-09.mp3</guid>
       <itunes:duration>00:57:48</itunes:duration>
@@ -1125,7 +1134,7 @@
     <item>
       <title>2016-01-06</title>
       <description>Episode: 2016-01-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:14 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:33 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-01-06.mp3" length="56973165" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-01-06.mp3</guid>
       <itunes:duration>00:59:18</itunes:duration>
@@ -1134,7 +1143,7 @@
     <item>
       <title>2016-01-13</title>
       <description>Episode: 2016-01-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-01-13.mp3" length="58087893" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-01-13.mp3</guid>
       <itunes:duration>01:00:27</itunes:duration>
@@ -1143,7 +1152,7 @@
     <item>
       <title>2016-01-20</title>
       <description>Episode: 2016-01-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-01-20.mp3" length="50577136" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-01-20.mp3</guid>
       <itunes:duration>00:52:38</itunes:duration>
@@ -1152,7 +1161,7 @@
     <item>
       <title>2016-01-27</title>
       <description>Episode: 2016-01-27</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-01-27.mp3" length="55735619" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-01-27.mp3</guid>
       <itunes:duration>00:58:00</itunes:duration>
@@ -1161,7 +1170,7 @@
     <item>
       <title>2016-02-10</title>
       <description>Episode: 2016-02-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-02-10.mp3" length="58388375" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-02-10.mp3</guid>
       <itunes:duration>01:00:46</itunes:duration>
@@ -1170,7 +1179,7 @@
     <item>
       <title>2016-02-17</title>
       <description>Episode: 2016-02-17</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-02-17.mp3" length="58158915" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-02-17.mp3</guid>
       <itunes:duration>01:00:32</itunes:duration>
@@ -1179,7 +1188,7 @@
     <item>
       <title>2016-02-24</title>
       <description>Episode: 2016-02-24</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-02-24.mp3" length="54796016" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-02-24.mp3</guid>
       <itunes:duration>00:57:02</itunes:duration>
@@ -1188,7 +1197,7 @@
     <item>
       <title>2016-03-02</title>
       <description>Episode: 2016-03-02</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:15 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:34 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-03-02.mp3" length="60351529" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-03-02.mp3</guid>
       <itunes:duration>01:02:49</itunes:duration>
@@ -1197,7 +1206,7 @@
     <item>
       <title>2016-03-09</title>
       <description>Episode: 2016-03-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-03-09.mp3" length="57575057" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-03-09.mp3</guid>
       <itunes:duration>00:59:55</itunes:duration>
@@ -1206,7 +1215,7 @@
     <item>
       <title>2016-03-16</title>
       <description>Episode: 2016-03-16</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-03-16.mp3" length="57794904" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-03-16.mp3</guid>
       <itunes:duration>01:00:09</itunes:duration>
@@ -1215,7 +1224,7 @@
     <item>
       <title>2016-03-23</title>
       <description>Episode: 2016-03-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-03-23.mp3" length="58180262" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-03-23.mp3</guid>
       <itunes:duration>01:00:33</itunes:duration>
@@ -1224,7 +1233,7 @@
     <item>
       <title>2016-03-30</title>
       <description>Episode: 2016-03-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-03-30.mp3" length="56385963" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-03-30.mp3</guid>
       <itunes:duration>00:58:41</itunes:duration>
@@ -1233,7 +1242,7 @@
     <item>
       <title>2016-04-06</title>
       <description>Episode: 2016-04-06</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-04-06.mp3" length="58201160" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-04-06.mp3</guid>
       <itunes:duration>01:00:34</itunes:duration>
@@ -1242,7 +1251,7 @@
     <item>
       <title>2016-04-20</title>
       <description>Episode: 2016-04-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-04-20.mp3" length="56802669" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-04-20.mp3</guid>
       <itunes:duration>00:59:07</itunes:duration>
@@ -1251,7 +1260,7 @@
     <item>
       <title>2016-05-04</title>
       <description>Episode: 2016-05-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:16 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:35 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-05-04.mp3" length="55746486" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-05-04.mp3</guid>
       <itunes:duration>00:58:01</itunes:duration>
@@ -1260,7 +1269,7 @@
     <item>
       <title>2016-05-11</title>
       <description>Episode: 2016-05-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-05-11.mp3" length="57128677" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-05-11.mp3</guid>
       <itunes:duration>00:59:27</itunes:duration>
@@ -1269,7 +1278,7 @@
     <item>
       <title>2016-05-18</title>
       <description>Episode: 2016-05-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-05-18.mp3" length="57504840" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-05-18.mp3</guid>
       <itunes:duration>00:59:51</itunes:duration>
@@ -1278,7 +1287,7 @@
     <item>
       <title>2016-05-25</title>
       <description>Episode: 2016-05-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-05-25.mp3" length="55224006" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-05-25.mp3</guid>
       <itunes:duration>00:57:28</itunes:duration>
@@ -1287,7 +1296,7 @@
     <item>
       <title>2016-06-01</title>
       <description>Episode: 2016-06-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-06-01.mp3" length="56281892" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-06-01.mp3</guid>
       <itunes:duration>00:58:34</itunes:duration>
@@ -1296,7 +1305,7 @@
     <item>
       <title>2016-06-08</title>
       <description>Episode: 2016-06-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-06-08.mp3" length="57475583" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-06-08.mp3</guid>
       <itunes:duration>00:59:49</itunes:duration>
@@ -1305,7 +1314,7 @@
     <item>
       <title>2016-06-15</title>
       <description>Episode: 2016-06-15</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-06-15.mp3" length="54620504" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-06-15.mp3</guid>
       <itunes:duration>00:56:51</itunes:duration>
@@ -1314,7 +1323,7 @@
     <item>
       <title>2016-07-13</title>
       <description>Episode: 2016-07-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:17 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:36 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-07-13.mp3" length="58352879" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-07-13.mp3</guid>
       <itunes:duration>01:00:44</itunes:duration>
@@ -1323,7 +1332,7 @@
     <item>
       <title>2016-07-27</title>
       <description>Episode: 2016-07-27</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:18 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-07-27.mp3" length="56090466" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-07-27.mp3</guid>
       <itunes:duration>00:58:22</itunes:duration>
@@ -1332,7 +1341,7 @@
     <item>
       <title>2016-08-03</title>
       <description>Episode: 2016-08-03</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:18 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-08-03.mp3" length="57121989" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-08-03.mp3</guid>
       <itunes:duration>00:59:27</itunes:duration>
@@ -1341,7 +1350,7 @@
     <item>
       <title>2016-08-10</title>
       <description>Episode: 2016-08-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:18 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-08-10.mp3" length="56317000" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-08-10.mp3</guid>
       <itunes:duration>00:58:37</itunes:duration>
@@ -1350,7 +1359,7 @@
     <item>
       <title>2016-08-17</title>
       <description>Episode: 2016-08-17</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:18 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-08-17.mp3" length="55252040" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-08-17.mp3</guid>
       <itunes:duration>00:57:30</itunes:duration>
@@ -1359,7 +1368,7 @@
     <item>
       <title>2016-08-24</title>
       <description>Episode: 2016-08-24</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:18 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-08-24.mp3" length="55535416" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-08-24.mp3</guid>
       <itunes:duration>00:57:48</itunes:duration>
@@ -1368,7 +1377,7 @@
     <item>
       <title>2016-08-31</title>
       <description>Episode: 2016-08-31</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:18 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-08-31.mp3" length="56679371" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-08-31.mp3</guid>
       <itunes:duration>00:58:59</itunes:duration>
@@ -1377,7 +1386,7 @@
     <item>
       <title>2016-09-07</title>
       <description>Episode: 2016-09-07</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:19 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:37 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-09-07.mp3" length="53385852" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-09-07.mp3</guid>
       <itunes:duration>00:55:33</itunes:duration>
@@ -1386,7 +1395,7 @@
     <item>
       <title>2016-09-14</title>
       <description>Episode: 2016-09-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:19 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-09-14.mp3" length="57780693" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-09-14.mp3</guid>
       <itunes:duration>01:00:08</itunes:duration>
@@ -1395,7 +1404,7 @@
     <item>
       <title>2016-09-21</title>
       <description>Episode: 2016-09-21</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:19 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-09-21.mp3" length="53377493" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-09-21.mp3</guid>
       <itunes:duration>00:55:33</itunes:duration>
@@ -1404,7 +1413,7 @@
     <item>
       <title>2016-09-28</title>
       <description>Episode: 2016-09-28</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:19 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-09-28.mp3" length="53964308" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-09-28.mp3</guid>
       <itunes:duration>00:56:10</itunes:duration>
@@ -1413,7 +1422,7 @@
     <item>
       <title>2016-10-12</title>
       <description>Episode: 2016-10-12</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:19 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-10-12.mp3" length="58503345" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-10-12.mp3</guid>
       <itunes:duration>01:00:53</itunes:duration>
@@ -1422,7 +1431,7 @@
     <item>
       <title>2016-10-19</title>
       <description>Episode: 2016-10-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:19 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-10-19.mp3" length="59196737" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-10-19.mp3</guid>
       <itunes:duration>01:01:37</itunes:duration>
@@ -1431,7 +1440,7 @@
     <item>
       <title>2016-10-26</title>
       <description>Episode: 2016-10-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:20 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-10-26.mp3" length="59394852" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-10-26.mp3</guid>
       <itunes:duration>01:01:49</itunes:duration>
@@ -1440,7 +1449,7 @@
     <item>
       <title>2016-11-02</title>
       <description>Episode: 2016-11-02</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:20 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:38 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-11-02.mp3" length="57693309" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-11-02.mp3</guid>
       <itunes:duration>01:00:03</itunes:duration>
@@ -1449,7 +1458,7 @@
     <item>
       <title>2016-11-09</title>
       <description>Episode: 2016-11-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:20 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-11-09.mp3" length="57786545" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-11-09.mp3</guid>
       <itunes:duration>01:00:08</itunes:duration>
@@ -1458,7 +1467,7 @@
     <item>
       <title>2016-11-16</title>
       <description>Episode: 2016-11-16</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:20 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-11-16.mp3" length="55400803" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-11-16.mp3</guid>
       <itunes:duration>00:57:39</itunes:duration>
@@ -1467,7 +1476,7 @@
     <item>
       <title>2016-11-30</title>
       <description>Episode: 2016-11-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:20 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-11-30.mp3" length="56005621" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-11-30.mp3</guid>
       <itunes:duration>00:58:17</itunes:duration>
@@ -1476,7 +1485,7 @@
     <item>
       <title>2016-12-07</title>
       <description>Episode: 2016-12-07</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:20 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-12-07.mp3" length="54234278" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-12-07.mp3</guid>
       <itunes:duration>00:56:26</itunes:duration>
@@ -1485,7 +1494,7 @@
     <item>
       <title>2016-12-14</title>
       <description>Episode: 2016-12-14</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:21 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2016-12-14.mp3" length="55259970" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2016-12-14.mp3</guid>
       <itunes:duration>00:57:31</itunes:duration>
@@ -1494,7 +1503,7 @@
     <item>
       <title>2017-01-04</title>
       <description>Episode: 2017-01-04</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:21 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-01-04.mp3" length="57007467" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-01-04.mp3</guid>
       <itunes:duration>00:59:20</itunes:duration>
@@ -1503,7 +1512,7 @@
     <item>
       <title>2017-01-11</title>
       <description>Episode: 2017-01-11</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:21 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:39 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-01-11.mp3" length="55111185" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-01-11.mp3</guid>
       <itunes:duration>00:57:21</itunes:duration>
@@ -1512,7 +1521,7 @@
     <item>
       <title>2017-02-01</title>
       <description>Episode: 2017-02-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:21 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-02-01.mp3" length="56124739" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-02-01.mp3</guid>
       <itunes:duration>00:58:25</itunes:duration>
@@ -1521,7 +1530,7 @@
     <item>
       <title>2017-02-08</title>
       <description>Episode: 2017-02-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:21 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-02-08.mp3" length="55998515" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-02-08.mp3</guid>
       <itunes:duration>00:58:17</itunes:duration>
@@ -1530,7 +1539,7 @@
     <item>
       <title>2017-02-15</title>
       <description>Episode: 2017-02-15</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:21 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-02-15.mp3" length="25858643" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-02-15.mp3</guid>
       <itunes:duration>00:26:53</itunes:duration>
@@ -1539,7 +1548,7 @@
     <item>
       <title>2017-02-22</title>
       <description>Episode: 2017-02-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-02-22.mp3" length="28680285" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-02-22.mp3</guid>
       <itunes:duration>00:29:49</itunes:duration>
@@ -1548,7 +1557,7 @@
     <item>
       <title>2017-03-01</title>
       <description>Episode: 2017-03-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-03-01.mp3" length="35070044" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-03-01.mp3</guid>
       <itunes:duration>00:36:29</itunes:duration>
@@ -1557,7 +1566,7 @@
     <item>
       <title>2017-03-08</title>
       <description>Episode: 2017-03-08</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-03-08.mp3" length="55114532" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-03-08.mp3</guid>
       <itunes:duration>00:57:21</itunes:duration>
@@ -1566,7 +1575,7 @@
     <item>
       <title>2017-03-15</title>
       <description>Episode: 2017-03-15</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:40 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-03-15.mp3" length="56430267" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-03-15.mp3</guid>
       <itunes:duration>00:58:44</itunes:duration>
@@ -1575,7 +1584,7 @@
     <item>
       <title>2017-03-22</title>
       <description>Episode: 2017-03-22</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-03-22.mp3" length="56339150" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-03-22.mp3</guid>
       <itunes:duration>00:58:38</itunes:duration>
@@ -1584,7 +1593,7 @@
     <item>
       <title>2017-03-29</title>
       <description>Episode: 2017-03-29</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-03-29.mp3" length="55481082" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-03-29.mp3</guid>
       <itunes:duration>00:57:44</itunes:duration>
@@ -1593,7 +1602,7 @@
     <item>
       <title>2017-04-05</title>
       <description>Episode: 2017-04-05</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:22 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-04-05.mp3" length="55369905" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-04-05.mp3</guid>
       <itunes:duration>00:57:37</itunes:duration>
@@ -1602,7 +1611,7 @@
     <item>
       <title>2017-04-19</title>
       <description>Episode: 2017-04-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-04-19.mp3" length="56975284" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-04-19.mp3</guid>
       <itunes:duration>00:59:18</itunes:duration>
@@ -1611,7 +1620,7 @@
     <item>
       <title>2017-04-26</title>
       <description>Episode: 2017-04-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-04-26.mp3" length="53487803" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-04-26.mp3</guid>
       <itunes:duration>00:55:40</itunes:duration>
@@ -1620,7 +1629,7 @@
     <item>
       <title>2017-05-10</title>
       <description>Episode: 2017-05-10</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-05-10.mp3" length="55086915" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-05-10.mp3</guid>
       <itunes:duration>00:57:20</itunes:duration>
@@ -1629,7 +1638,7 @@
     <item>
       <title>2017-05-17</title>
       <description>Episode: 2017-05-17</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:41 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-05-17.mp3" length="55039299" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-05-17.mp3</guid>
       <itunes:duration>00:57:17</itunes:duration>
@@ -1638,7 +1647,7 @@
     <item>
       <title>2017-05-24</title>
       <description>Episode: 2017-05-24</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-05-24.mp3" length="54851634" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-05-24.mp3</guid>
       <itunes:duration>00:57:05</itunes:duration>
@@ -1647,7 +1656,7 @@
     <item>
       <title>2017-05-31</title>
       <description>Episode: 2017-05-31</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-05-31.mp3" length="53156811" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-05-31.mp3</guid>
       <itunes:duration>00:55:19</itunes:duration>
@@ -1656,7 +1665,7 @@
     <item>
       <title>2017-06-07</title>
       <description>Episode: 2017-06-07</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:23 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-06-07.mp3" length="57723431" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-06-07.mp3</guid>
       <itunes:duration>01:00:04</itunes:duration>
@@ -1665,7 +1674,7 @@
     <item>
       <title>2017-06-21</title>
       <description>Episode: 2017-06-21</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-06-21.mp3" length="51894992" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-06-21.mp3</guid>
       <itunes:duration>00:54:00</itunes:duration>
@@ -1674,7 +1683,7 @@
     <item>
       <title>2017-06-28</title>
       <description>Episode: 2017-06-28</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-06-28.mp3" length="53553035" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-06-28.mp3</guid>
       <itunes:duration>00:55:44</itunes:duration>
@@ -1683,7 +1692,7 @@
     <item>
       <title>2017-07-12</title>
       <description>Episode: 2017-07-12</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-07-12.mp3" length="53783301" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-07-12.mp3</guid>
       <itunes:duration>00:55:58</itunes:duration>
@@ -1692,7 +1701,7 @@
     <item>
       <title>2017-07-19</title>
       <description>Episode: 2017-07-19</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:42 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-07-19.mp3" length="57399901" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-07-19.mp3</guid>
       <itunes:duration>00:59:44</itunes:duration>
@@ -1701,7 +1710,7 @@
     <item>
       <title>2017-07-26</title>
       <description>Episode: 2017-07-26</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-07-26.mp3" length="58211919" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-07-26.mp3</guid>
       <itunes:duration>01:00:35</itunes:duration>
@@ -1710,7 +1719,7 @@
     <item>
       <title>2017-08-02</title>
       <description>Episode: 2017-08-02</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-08-02.mp3" length="54585411" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-08-02.mp3</guid>
       <itunes:duration>00:56:48</itunes:duration>
@@ -1719,7 +1728,7 @@
     <item>
       <title>2017-08-09</title>
       <description>Episode: 2017-08-09</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:24 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-08-09.mp3" length="54391263" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-08-09.mp3</guid>
       <itunes:duration>00:56:45</itunes:duration>
@@ -1728,7 +1737,7 @@
     <item>
       <title>2017-08-23</title>
       <description>Episode: 2017-08-23</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-08-23.mp3" length="52679580" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-08-23.mp3</guid>
       <itunes:duration>00:54:49</itunes:duration>
@@ -1737,7 +1746,7 @@
     <item>
       <title>2017-08-30</title>
       <description>Episode: 2017-08-30</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-08-30.mp3" length="55780392" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-08-30.mp3</guid>
       <itunes:duration>00:58:03</itunes:duration>
@@ -1746,7 +1755,7 @@
     <item>
       <title>2017-09-13</title>
       <description>Episode: 2017-09-13</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-09-13.mp3" length="55365453" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-09-13.mp3</guid>
       <itunes:duration>00:57:37</itunes:duration>
@@ -1755,7 +1764,7 @@
     <item>
       <title>2017-09-20</title>
       <description>Episode: 2017-09-20</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:43 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-09-20.mp3" length="40584888" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-09-20.mp3</guid>
       <itunes:duration>00:42:13</itunes:duration>
@@ -1764,7 +1773,7 @@
     <item>
       <title>2017-09-27</title>
       <description>Episode: 2017-09-27</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:44 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-09-27.mp3" length="58072493" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-09-27.mp3</guid>
       <itunes:duration>01:00:26</itunes:duration>
@@ -1773,7 +1782,7 @@
     <item>
       <title>2017-10-18</title>
       <description>Episode: 2017-10-18</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:44 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-10-18.mp3" length="58840735" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-10-18.mp3</guid>
       <itunes:duration>01:01:14</itunes:duration>
@@ -1782,7 +1791,7 @@
     <item>
       <title>2017-10-25</title>
       <description>Episode: 2017-10-25</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:25 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:44 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-10-25.mp3" length="56156506" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-10-25.mp3</guid>
       <itunes:duration>00:58:27</itunes:duration>
@@ -1791,7 +1800,7 @@
     <item>
       <title>2017-11-01</title>
       <description>Episode: 2017-11-01</description>
-      <pubDate>Sun, 19 Oct 2025 21:51:26 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 22:03:44 -0700</pubDate>
       <enclosure url="https://archive.org/download/2013-05-03_202510/2017-11-01.mp3" length="53428516" type="audio/mpeg"/>
       <guid>https://archive.org/download/2013-05-03_202510/2017-11-01.mp3</guid>
       <itunes:duration>00:55:36</itunes:duration>
